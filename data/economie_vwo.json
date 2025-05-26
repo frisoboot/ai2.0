@@ -1,0 +1,137 @@
+[
+  {
+    "context": "Figuur 1 toont de marktsituatie van product A vóór en na invoering van een heffing op vervuilende productie.",
+    "question": "Leg uit dat de productie van product A leidt tot negatieve externe effecten en maatschappelijke kosten. Geef daarbij een voorbeeld van een negatief extern effect.",
+    "options": [],
+    "correct_answer": "Bij de productie van product A ontstaan kosten (bijv. ziekte door luchtvervuiling of CO₂-uitstoot) die niet in de marktprijs zitten. Deze negatieve externe effecten zorgen voor maatschappelijke kosten omdat de samenleving ze moet dragen.",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Externe effecten"
+  },
+  {
+    "context": "Figuur 1 laat zien met hoeveel de evenwichtsprijs van product A stijgt nadat de heffing is ingevoerd.",
+    "question": "Bereken hoeveel procent van de heffing wordt doorberekend in de prijs van product A.",
+    "options": [],
+    "correct_answer": "Percentage = (ΔP ÷ heffing) × 100 %. Lees ΔP (prijsstijging) en de hoogte van de heffing af uit figuur 1 en vul ze in de formule in.",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Prijsberekeningen"
+  },
+  {
+    "context": "Figuur 1 (product A) en figuur 2 (product B) plus de gegeven CO₂-uitstoot per product.",
+    "question": "Bereken hoeveel kilogram de totale CO₂-uitstoot zal afnemen door de heffing op product A en de subsidie op product B.",
+    "options": [],
+    "correct_answer": "Stap 1: bepaal de daling in de verkochte hoeveelheid A × 6 kg. Stap 2: bepaal de stijging in de verkochte hoeveelheid B × 2 kg. Stap 3: totale afname = (dalende CO₂ A) – (extra CO₂ B). Vul de aantallen uit de grafieken in.",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "CO₂-uitstoot berekeningen"
+  },
+  {
+    "context": "Figuur 1 en figuur 2 (uitwerkbijlage).",
+    "question": "Arceer in de uitwerkbijlage:\n– de heffingsopbrengst voor de overheid in figuur 1;\n– het verlies aan economische doelmatigheid als gevolg van de subsidie in figuur 2.",
+    "options": [],
+    "correct_answer": "Heffingsopbrengst = rechthoek tussen oude en nieuwe aanbodcurve en tussen evenwichts- en consumentprijs. Dode-wichtsverlies = driehoek tussen nieuwe en oude aanbod-/vraag­curven in figuur 2.",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Grafische analyse"
+  },
+  {
+    "context": "Bedrijf Knop (kosten: € 12 constante + € 5 variabele per product) opereert op markt A met de nieuwe prijs uit figuur 1.",
+    "question": "Leg met behulp van getallen uit of bedrijf Knop het komende jaar door zal gaan met de productie als de heffing wordt ingevoerd.",
+    "options": [],
+    "correct_answer": "Als de nieuwe marktprijs ≥ de gemiddelde variabele kosten (€ 5) én ≥ de break-evenprijs (€ 17), produceert Knop door; ligt de prijs lager, dan stopt hij. Vergelijk de prijs uit figuur 1 met € 17.",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Kostprijsberekeningen"
+  },
+  {
+    "context": "De econoom merkt op dat de kruislingse prijselasticiteiten tussen product A en B positief zijn.",
+    "question": "Leg met behulp van de kruislingse prijselasticiteit uit of de verwachte CO₂-uitstoot van product A toeneemt of afneemt bij een prijsdaling van product B.",
+    "options": [],
+    "correct_answer": "Een positieve kruislingse elasticiteit betekent dat A en B substituten zijn. Daalt de prijs van B, dan daalt de vraag naar A → minder productie van A → CO₂-uitstoot A neemt af.",
+    "level": "vwo",
+    "image": null,
+    "topic": "Prijselasticiteit"
+  },
+  {
+    "context": "Figuur 1 toont voor Maecenates de ontwikkeling van staatsschuldquote en nominale rente (2011-2020).",
+    "question": "Geef met behulp van figuur 1 een verklaring voor de ontwikkeling van het nominale rentepercentage op staats­obligaties.",
+    "options": [],
+    "correct_answer": "Bij een stijgende staatsschuldquote loopt het risico voor beleggers op wanbetaling op, waardoor zij een hogere risicopremie eisen en de nominale rente stijgt (en omgekeerd).",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Staatsschuld en rente"
+  },
+  {
+    "context": "In 2020: staatsschuld­quote en rente staan in figuur 1; overheids­uitgaven zijn 43 % bbp.",
+    "question": "Bereken of de dienstverlening van de overheid in Maecenates in 2020 volgens Falco onder druk komt te staan.",
+    "options": [],
+    "correct_answer": "Rente-uitgaven-aandeel = (staatsschuld­quote × nominale rente) ÷ 43 %. Is dit > 10 %, dan komt de dienstverlening onder druk; is het lager, dan niet. Vul de figuurwaarden in.",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Overheidsfinanciën"
+  },
+  {
+    "context": "Falco en Colomba over verhoging van de inkomstenbelasting.",
+    "question": "Leg uit dat een verhoging van de inkomstenbelasting door het uitverdieneffect een beperkt effect heeft op de staatsschuld.",
+    "options": [],
+    "correct_answer": "Een hogere belasting verlaagt het netto-loon, wat arbeidsparticipatie en productie kan remmen. De belastingbasis krimpt, waardoor de extra belastingopbrengst (en dus schuld­verlaging) kleiner is dan verwacht: dat is het uitverdieneffect.",
+    "level": "vwo",
+    "image": null,
+    "topic": "Belastingeffecten"
+  },
+  {
+    "context": "Zelfde beleidssituatie als hierboven.",
+    "question": "Leg uit dat een verhoging van de inkomstenbelasting leidt tot een grotere belastingwig en dat daardoor het bbp kan dalen.",
+    "options": [],
+    "correct_answer": "De belastingwig (verschil tussen loonkosten werkgever en nettoloon werknemer) wordt groter. Dat maakt arbeid duurder voor werkgevers en minder aantrekkelijk voor werknemers, waardoor arbeid en productie afnemen → bbp daalt.",
+    "level": "vwo",
+    "image": null,
+    "topic": "Belastingwig"
+  },
+  {
+    "context": "Colomba over publiek kapitaal.",
+    "question": "Leg de stelling van Colomba uit dat overheidsinvesteringen via publiek kapitaal op termijn tot een lagere staatsschuld­quote kunnen leiden. Geef daarbij een voorbeeld van publiek kapitaal.",
+    "options": [],
+    "correct_answer": "Publieke investeringen in bv. snelwegen of digitale infrastructuur verhogen de productiviteit en daarmee het bbp. De staatsschuld blijft gelijk of stijgt minder hard dan het bbp, waardoor de schuld­quote daalt.",
+    "level": "vwo",
+    "image": null,
+    "topic": "Publieke investeringen"
+  },
+  {
+    "context": "Positief overheidssaldo en de vermogensmarkt.",
+    "question": "Leg uit dat een positief overheidssaldo via de vermogensmarkt kan leiden tot toenemende binnenlandse bestedingen.",
+    "options": [],
+    "correct_answer": "Het overschot vergroot het nationale spaaraanbod; de reële rente daalt, waardoor investeren en consumentenkrediet goedkoper worden → hogere particuliere bestedingen.",
+    "level": "vwo",
+    "image": null,
+    "topic": "Vermogensmarkt"
+  },
+  {
+    "context": "Klant betaalt in vreemde valuta; wisselkoersrisico voor exporteurs.",
+    "question": "Leg uit dat een betaling in vreemde valuta voor Nederlandse exporteurs nadelig uitpakt bij een tussentijdse appreciatie van de euro.",
+    "options": [],
+    "correct_answer": "Als de euro tussen contract en betaling apprecieert, levert dezelfde buitenlandse valuta minder euro's op. De exporteur ontvangt dus minder opbrengst gemeten in euro's.",
+    "level": "vwo",
+    "image": null,
+    "topic": "Wisselkoersen"
+  },
+  {
+    "context": "Tabel 1 met variabele premies voor standaard- en hoge-risicovaluta.",
+    "question": "Leg uit of het hanteren van verschillende variabele premies ervoor zorgt dat averechtse selectie binnen de valutaverzekering wordt verminderd.",
+    "options": [],
+    "correct_answer": "Door hogere premies te vragen voor risicovollere valuta betalen exporteurs met laag risico minder. Zo sluiten vooral degenen met écht hoog risico een dure polis, terwijl laag-risico exporteurs niet afhaken → minder averechtse selectie.",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Verzekeringen"
+  },
+  {
+    "context": "Tradesure introduceert valutaverzekering.",
+    "question": "Verklaar of Tradesure rekening moet houden met de aanwezigheid van moral hazard.",
+    "options": [],
+    "correct_answer": "Ja. Zodra het valutarisico is verzekerd, kan de exporteur minder geneigd zijn om zelf het risico te beperken (bijv. door kortere betalingstermijnen). Dit moreel risico moet de verzekeraar incalculeren (premie, voorwaarden).",
+    "level": "vwo",
+    "image": "vraag1.png",
+    "topic": "Moral hazard"
+  }
+]
